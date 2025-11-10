@@ -4,9 +4,9 @@ My name is Cobe, and I'm a 2nd-year student passionate about Java, Networking, a
 - 🔭 **Currently working on:**  
   - **StudentSync** – a system to manage and synchronize student data efficiently, demonstrating database CRUD and backend logics with **java, php, MySQL.**
 
-- 🌱 **Currently learning:** Data Structures & Algorithms, Advanced OOP in PHP & Java, Web Development, and AI concepts  
+- 🌱 **Currently learning:** Data Structures & Algorithms in java, OOP in PHP, Web Development, Ai Concepts, and Networking.
 
-- 👯 **Looking to collaborate on:** Open-source projects in Java, PHP, or web apps, especially games or tools that solve real problems  
+- 👯 **Looking to collaborate on:** Open-source projects in Java, PHP, or web apps, especially Networking or tools that solve real world problems.
 
 - 💻 **I have made:**  
   - **LINGUA** – a chatbot project showcasing OOP, arrays, and real-time interactions  
